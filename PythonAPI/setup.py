@@ -20,7 +20,7 @@ setup(
     install_requires=[
         'setuptools>=18.0',
         'cython>=0.27.3',
-        'matplotlib=3.6.0',
+        'matplotlib==3.6.0',
     ],
     version='0.0.0',
     description="COCO API for Halpe-Fullbody dataset",
